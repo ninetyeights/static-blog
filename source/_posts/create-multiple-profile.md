@@ -8,8 +8,8 @@ tags:
 categories:
   - Shell
 description: 使用命令快速创建浏览器用户
-top_img: false
-cover: false
+top_img: ../images/posts/create-multiple-profile/banner.png
+cover: ../images/posts/create-multiple-profile/banner.png
 date: 2022-03-16 14:31:27
 ---
 
