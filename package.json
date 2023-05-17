@@ -24,6 +24,6 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "hexo-wordcount": "^6.0.1",
-    "remark": "^14.0.2"
+    "remark": "^14.0.3"
   }
 }
